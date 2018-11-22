@@ -6,5 +6,13 @@ ggggg
 do something here too
 and look after later
 
+add something here
+and i want to know whether it have a conflict
+
+merge conflict !!!
+
 after update the git password
+
 make a test
+
+both modifies???
