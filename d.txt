@@ -1,2 +1,3 @@
 test checkout without add/commit after creating or modifing something
-
+modify something
+and i want to close it~
